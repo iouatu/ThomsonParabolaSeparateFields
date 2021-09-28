@@ -3,6 +3,8 @@ can create any number of E and/or B field regions through which the particle to 
 
 In order to have what I got and sent you on Slack:
 Introduce the below when asked for input!
+It reproduces this paper's TS: https://doi.org/10.1063/1.3523428
+
 
 2
 
