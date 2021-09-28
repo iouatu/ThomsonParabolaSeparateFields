@@ -1,10 +1,20 @@
 # ThomsonParabolaSeparateFields
-can create any number of E and/or B field regions through which the particle to move
 
-In order to have what I got and sent you on Slack:
+What is different from the other repo for TS modelling, this one can create any number of E and/or B field regions through which the particles to move.
+
+It is not restricted to simulating 1 region only (region having paralell E and or B fields).
+
+This way I can decouple B+E field region from the only-E-field region next to it.
+
+Can reporoduce this paper's TS: https://doi.org/10.1063/1.3523428
+
+See the paper.
+
+
+
+In order to obtain the graph I sent you on Slack:
 Introduce the below when asked for input!
-It reproduces this paper's TS: https://doi.org/10.1063/1.3523428
-
+The below inputs reproduce the above paper's TS.
 
 2
 
